@@ -1,8 +1,5 @@
 # Aria Operations Experience Day
 
-[TOC]
-
-
 
 ## Presentations
 
@@ -11,6 +8,8 @@ Link to todays Introduction presentation [Introduction presentation ](./Presenta
 Link to todays [Lab Exercises Manual](./LabManual/hol-2201-14-cmp_pdf_en.pdf)
 
 Link to online Hands-On Labs manual for HOL-2201-14-CMP, “[Advanced Topics in vRealize Operations](./LabManual/hol-2201-14-cmp_pdf_en.pdf)” 
+
+
 
 ## Agenda
 
