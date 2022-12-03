@@ -1,6 +1,7 @@
 # Aria Operations Experience Day
 
 
+
 ## Presentations
 
 Link to todays Introduction presentation [Introduction presentation ](./Presentations/VMwareAriaIntroduction.pdf)
