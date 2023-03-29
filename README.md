@@ -38,8 +38,12 @@ CO2 usage dashboard for next year – are you carbon efficient?
 
  ## 14:30 Aria Operations for Applications
 - Previously known as *Tanzu Observability* previously know as *Wavefront*
-- Speaker
-## 15:00 Documentation
+- Demo app view – multiple K8s versions, Dashboard views, Needle in Haystack, 
+- Speaker: Zakir Ali, AOA, SE Observability 
+
+## 15:01 Go home. Drive safe! bye!
+
+# Documentation
 - Direct link to [the POD/HOL](https://request.hol.vmware.com/landing-pages/62941) for Operations Experience day (with vrops, vra, etc.)
 
 - The great [Prerequisite](/files/import/README.md)
@@ -51,7 +55,9 @@ CO2 usage dashboard for next year – are you carbon efficient?
 - Specifics on how to create [Custom groups](files/customgroups/README.md) 
 
 - Specifics on how to create a [Selection List (Object list)](files/selectionlist/README.md) for a dashboard
-- Our pre Lunchbreak [presentation ](/Presentations/Operations Exp Day.pdf)
+
+- Our pre Lunchbreak [presentation ](Presentations/Operations Exp Day.pdf)
+
+- Aria Operations for Applications Presentation
 
 
-## 15:01 Go home. Drive safe! bye!
