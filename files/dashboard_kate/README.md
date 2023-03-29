@@ -1,75 +1,15 @@
-### Pre Requisites
+# Pre Requisites
 
-Login to VMware HOL https://labs.hol.vmware.com/HOL/catalogs/lab/10126 
+Before you can start on this, make sure you have done all Pre Requisutes. We need to do some 
 
-**I. Import "Everything" (Bengt to provide entry steps)**
+- Add Tags in vSphere
+- Import Custom groups
+- Import a View
+- Import two dashboards
 
-Import file Name "Content-2023-03-27 09-31-54 AM.zip" password to file VMware1!VMware1!
+You can find all [pre requisites tasks HERE](/files/import/README.md)
 
-Go to Switch to Import view 
-
-# Creating your Monday Morning Dashboard
-
-
-
-## vCenter Tagging
-
-1. Login to vCenter server https://vcsa-01a.corp.local/ using user: administrator@vsphere.local password: VMware1!
-
-2. Locate Workload 1 Cluster. Repeat for All the VMs steps below
-
-   <img src="images/image-20230328165757425.png" align="left" style="zoom:75%;" />
-
-   3. Locate VM object and **right click**, Select **Tag & Custom Attributes** next select **Assign Tag...** 
-
-      <img src="images/image-20230328171250303.png" align="left" style="zoom:67%;" />
-
-      4. Confirm by clicking OK 
-
-         <img src="images/image-20230328171941176.png" alt="image-20230328171941176" style="zoom:50%;" />
-
-         
-
-      5. Select Create Category named **"Exp Day"** select **Many tags option.
-
-         <img src="images/image-20230328180428944.png" alt="image-20230328180428944" style="zoom:75%;" /> 
-
-      6. Create Tag by choosing **OPS Exp**Category.
-
-         <img src="images/image-20230328180735145.png" align="left" style="zoom:70%;" />
-
-         
-
-      7. Assign above tag to All VMs in Worload 1 cluster. 
-
-
-## Create a Custom Group 
-
-1. Create a **group type**
-
-   1. Go to Administration 
-
-      ![image-20230328181642530](images/image-20230328181642530.png)
-
-   2. Next select **Group Types** and click on **ADD**
-
-      <img src="images/image-20230328181957890.png" alt="image-20230328181957890" style="zoom:67%;" />
-
-   3. Name it OPS Exp
-
-![image-20230328182104832](images/image-20230328182104832.png)
-
-   4. Go to Envronment tab, select Custom Groups and ADD new one
-
-   5. Provide New group name "Ops Exp Day" and assign the **Group Type OPS Exp**, assign Policy: HOL Policy and check **Keep group membership up to date**. Define membership criteria by choosing **Virtual Machine** object, then select Tag name the **Tag category** as "appowner" select **contains** "Kate".
-
-   ![image-20230328203124468](images/image-20230328203124468.png)
-
-   
-
-   
-
-## Create Dashboard
+# Creating your Monday Morning Dashboard  
 
 We are going to create a dashboard showing all necessary information for troubleshooting purposes, the goal is to make it look like this:
 
@@ -77,113 +17,154 @@ We are going to create a dashboard showing all necessary information for trouble
 
 ![image-20230328221849201](images/image-20230328221849201.png)
 
+## Aria Operations Dashboard Creation
+
 1. Go to **Dashboard tab** and select from **Dashboards** menu (on the left) **Create Dashboard.** <img src="images/image-20230328201159056.png" alt="image-20230328201159056" style="zoom:67%;" />
 
-2. Select List Object 
+2. Select **Object List** 
 
-3. Provide **List Object name** "Select your Application/Environment" and change **Self Provider and Auto Select First Row** to **On**
+3. Provide **name** "Select your Application/Environment" 
+
+4. Change Self Provider to **On**
+
+5. Change Auto Select First Row to **On**
 
    <img src="images/image-20230328201628554.png" alt="image-20230328201628554" style="zoom:80%;" />
 
-4. In **Optput Filter** Select **Object Types: Environment, Function, OPS Exp and vSphere World** save.
+6. Expand the Output Filter 
+
+7. Select all these **Object Types**: 
+   Environment
+   Function
+   OPS Exp
+   vSphere World
+
+8. Click **save**.
 
 <img src="images/image-20230328204106898.png" alt="image-20230328204106898" style="zoom:50%;" />
 
-5. Drag and drop Heatmap widget.
+
+
+##### Note: A detailed description on how to do a very normal selection list can be [found here](/files/selectionlist/README.md)
+
+
+
+5. Next, Drag and drop a Heatmap widget onto the canvas.
 
    ![image-20230328204424379](images/image-20230328204424379.png)
 
-   6. Rename to "VMs up or down?"
+   6. Rename the heatmap to "VMs up or down?"
 
       <img src="images/image-20230328204535028.png" alt="image-20230328204535028" style="zoom:50%;" />
 
-   7. Select values as per screen shot. 
-
+   7. Select values as per screen shot
       ![image-20230328205001787](images/image-20230328205001787.png)
 
-8. Drop on the canvas Alert Volume and Top Alerts widgets.
+6. Drop **Alert Volume** and **Top Alerts** widgets onto the canvas
 
-9. Add View widget and Name it "Utilization View", in Output Data Select Performance|Utilization|VM list. 
+7. Add a new **View widget** - If you can’t see VIEW widgets, please ask!!!
+
+8. Name the View widget: "**Utilization list**", 
+
+9. In the Output Data section below, scroll and select `**Performance|Utilization|VM list**.` 
 
    ![image-20230328213541259](images/image-20230328213541259.png)
 
    
 
-10. Add multiple View widgets to show performance views and edit the values to: 
+   ##### Note: We will now Add multiple View widgets to show different type of performance views and edit the values. 
 
-- Name: cpu performance view -  Output Data: Performance|Utilization|VM CPU
+- Add a new View widget with the name: **CPU performance view** 
+- In the Output Data section below, scroll and select : `Performance|Utilization|VM CPU`
 
 ![image-20230328210113992](images/image-20230328210113992.png)
 
-- Name: guest memory Performance -  Output Data: Performance|Guest OS Memory
+- Add a new View widget with the name: **Guest memory Performance**
 
-  <img src="images/image-20230328210608772.png" alt="image-20230328210608772" style="zoom:67%;" />
+- In the Output Data section below, scroll and select : `Performance|Guest OS Memory`
 
-- Name: disk throughput performance  -  Output Data: Performance|Utilization|VM Disk Troughput (total)
+<img src="images/image-20230328210608772.png" alt="image-20230328210608772" style="zoom:67%;" />
+
+- Add a new View widget with the name: **disk throughput performance **
+- In the Output Data section below, scroll and select : `Performance|Utilization|VM Disk Troughput (total)`
 
 <img src="images/image-20230328210753467.png" alt="image-20230328210753467" style="zoom:67%;" />
 
-11. Add view widget, rename it to OS uptime and choose Output data: Availablity|Guest OS Uptime
+11. 
+11. Add a new View widget with the name: **OS uptime** 
+11. In the Output Data section below, scroll and select:  `Availablity|Guest OS Uptime`
 
 ![image-20230328211112779](images/image-20230328211112779.png)
 
-12. Select view widget, name:Potential cost savings -  Object Data: Cost|VM Potential Savings
+12. Add a new View widget with the name: **Potential cost savings** 
+
+12. In the Output Data section below, scroll and select: `Cost|VM Potential Savings`
 
     ![image-20230328214707961](images/image-20230328214707961.png)
 
-    13. Add Heatmap widget name it "workload and contention". For Output Data:
+    13. Add **Heatmap** widget and name it: **workload and contention**
+
+    13. For our output data:
 
         - Configuration: load/contention
 
-        - Name: load/contention
+        - Name: **load/contention**
 
-        - Group by: Virtual Machine 
+        - Group by: **Virtual Machine** 
 
-        - Mode: General
+        - Mode: **General**
 
-        - Object Type: Virtual Machine 
+        - Object Type: **Virtual Machine** 
 
-        - Size by: CPU|Workload (%)
+        - Size by: `CPU|Workload (%)`
 
-        - Color by: CPU|Contention(%)
-
+        - Color by: `CPU|Contention(%)`
           ![image-20230328215223151](images/image-20230328215223151.png)
-
-          14. Add Object Relationship (Advanced) widget and rename it to Object
-
-              ![image-20230328215423302](images/image-20230328215423302.png)15. Add Topology Graph widget and rename to Topo Graph 
-
+          
+          14. Add an O**bject Relationship (Advanced)** widget with the name: **Object**
+              ![image-20230328215423302](images/image-20230328215423302.png)
+              
+          14. Add Add a **Topology Graph** widget Named: **Topo Graph** 
+    
               ![image-20230328215720675](images/image-20230328215720675.png)
 
-## Create a Custom View
+Conclusion: This is how we create a dashboard from scratch. Don’t Worry if it’s not finished in time, like a professional tv-cook, we got you covered. Have a look at the dashboard called “”
 
-1. Go to View -> Manage Views
 
-   ![image-20230328215953785](images/image-20230328215953785.png)
 
-2. > > > > > > > > **BENGT WILL FILL IN THIS**
+# Interactions
 
-   
-   
 
-## Interactions 
 
-1. Go to Show Interactions tab
+1. Click the **Show Interactions** tab
 
    ![image-20230328211241747](images/image-20230328211241747.png)
 
-   2. Create interaction between Select your application widget and all the widgets on canvas 
+   2. Create interaction between **Select Your Application** Select widget and all the rest of the widgets on your canvas, This can be done by dragging from your selection list, the arrow, onto the circle of the next widget.
 
       ![image-20230328221153371](images/image-20230328221153371.png)
 
 
 
-3. Select Utilization List object and create interactions with listed widgets. 
+3. Instead of Drag’n’Drop between the Select Utilization List and other objects, you can **click** the arrow on you selection list and create interactions with the listed widgets that appears. 
 
    <img src="images/image-20230328221310534.png" alt="image-20230328221310534" style="zoom:50%;" />
 
-   4. Save changes
+   4. When all the interactions are done click **SAVE** to Save changes
 
       ![image-20230328221555472](images/image-20230328221555472.png)
 
       
+
+Conclusion: Dashboards present a visual overview of the performance and state of objects in your virtual infrastructure. You create dashboards by adding widgets to a dashboard and configuring them. We use dashboards to determine the nature and timeframe of existing and potential issues with your environment. 
+
+# The missing Custom <u>Disk</u> VIEW
+
+We are using a custom VIEW on our dashboard. 
+
+As you can see from the interactions above, the last widget on the third row is called **Disks**. 
+
+To learn how to create this view, [go here](/files/view/README.md)
+
+
+
