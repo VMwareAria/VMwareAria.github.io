@@ -1,0 +1,805 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1-1",
+      "creationTime": 1676643526858,
+      "dashboardNavigations": {"04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8": [{
+         "id": "a10e7aaa-8fa7-4373-8ebb-87a9cc7daaec",
+         "widgets": []
+      }]},
+      "description": "",
+      "disabled": false,
+      "gridsterMaxColumns": 12,
+      "hidden": false,
+      "homeTab": false,
+      "id": "7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a",
+      "importAttempts": 0,
+      "importComplete": true,
+      "lastUpdateTime": 1679651162101,
+      "lastUpdateUserId": "33929b89-eab3-4f61-a3ca-671b7c927827",
+      "locked": false,
+      "name": "Aria Operations Experience Days/Aria Operations Experience - START",
+      "namePath": "Aria Operations Experience Days",
+      "rank": 0,
+      "shared": true,
+      "states": [],
+      "temporary": false,
+      "userId": "33929b89-eab3-4f61-a3ca-671b7c927827",
+      "widgetInteractions": [
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "5838c9d9-2205-4145-badf-2415b40eb271"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "628a3d0a-3b08-452b-a360-a534a41118b2"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "7771f934-cfd8-491d-bdf7-f4feb8baa2a0"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "a3cf1a07-1006-4a50-974a-1a5d3a7b3d7d"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "92e04e6e-b3b6-47e6-97fc-466e4b02dcf1"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "6dd46b76-3354-47ac-93e8-4d5475fa787c"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "a3cf1a07-1006-4a50-974a-1a5d3a7b3d7d"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "92e04e6e-b3b6-47e6-97fc-466e4b02dcf1"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "6dd46b76-3354-47ac-93e8-4d5475fa787c"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "02ab1423-3f3b-424c-9d37-870469ba82ed"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "02ab1423-3f3b-424c-9d37-870469ba82ed"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "8df428a2-9551-459d-97ef-60f1143b61df"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "59e8b9f7-b067-4301-a670-3ebb9424d917"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "59e8b9f7-b067-4301-a670-3ebb9424d917"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "e4581159-e4c2-4531-a5d5-c1cd444746ad"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "e4581159-e4c2-4531-a5d5-c1cd444746ad"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "0e6649fd-4b50-4c1f-9ae5-04f10e4fddcb"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "0e6649fd-4b50-4c1f-9ae5-04f10e4fddcb"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "8df428a2-9551-459d-97ef-60f1143b61df"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "e92facef-91a6-4ca0-a29b-409041c45aac"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "be668bec-9028-4c79-9df8-8d0f8ecbd621"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "be668bec-9028-4c79-9df8-8d0f8ecbd621"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "e92facef-91a6-4ca0-a29b-409041c45aac"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "widgetIdReceiver": "7f4951f2-7006-432e-b0a5-421dc1eced06"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "widgetIdReceiver": "7f4951f2-7006-432e-b0a5-421dc1eced06"
+         }
+      ],
+      "widgets": [
+         {
+            "collapsed": false,
+            "config": {
+               "additionalColumns": [],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "tagPicker",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": true},
+               "selfProvider": {"selfProvider": true},
+               "tagFilter": {
+                  "path": [
+                     "/source/kind/kind:resourceKind:id:0_::_",
+                     "/source/kind/kind:resourceKind:id:1_::_",
+                     "/source/kind/kind:resourceKind:id:2_::_"
+                  ],
+                  "value": {
+                     "adapterInstance": [],
+                     "adapterKind": [],
+                     "bus": [],
+                     "collector": [],
+                     "day": [],
+                     "exclaim": false,
+                     "healthRange": [],
+                     "kind": [
+                        "resourceKind:id:0_::_",
+                        "resourceKind:id:1_::_",
+                        "resourceKind:id:2_::_"
+                     ],
+                     "maintenanceSchedule": [],
+                     "state": [],
+                     "status": [],
+                     "tag": [],
+                     "tier": []
+                  }
+               },
+               "title": "Select your environment/app"
+            },
+            "gridsterCoords": {
+               "h": 9,
+               "w": 3,
+               "x": 1,
+               "y": 1
+            },
+            "height": 495,
+            "id": "04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+            "states": [
+               {
+                  "key": "perm_toolbarVisible_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+                  "value": "b%3A1"
+               },
+               {
+                  "key": "permResGrid_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_04ce4f4b-9035-4422-87b2-a5f6dd0f8bc8",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%255Eo%25253Aid%25253Ds%2525253Ah5%255Eo%25253Aid%25253Ds%2525253Ah6%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A0%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253AresourceRating%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah47%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%5EstoreState%3Do%253Asorters%253Da%25253Ao%2525253Aroot%2525253Ds%252525253Adata%2525255Eproperty%2525253Ds%252525253AresourceKind%2525255Edirection%2525253Ds%252525253AASC%2525255Eid%2525253Ds%252525253AresourceKind"
+               }
+            ],
+            "title": "Select your environment/app",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartViewItems": ["labels"],
+               "isUpdatedView": true,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "title": "potential cost savings",
+               "traversalSpecId": "",
+               "viewDefinitionId": "6a431c9b-ce07-4f77-8186-d42d464e5851"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 2,
+               "x": 9,
+               "y": 17
+            },
+            "height": 324,
+            "id": "5838c9d9-2205-4145-badf-2415b40eb271",
+            "states": [
+               {
+                  "key": "perm_toolbarVisible_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_5838c9d9-2205-4145-badf-2415b40eb271",
+                  "value": "b%3A1"
+               },
+               {
+                  "key": "perm_isDashboardTime_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_5838c9d9-2205-4145-badf-2415b40eb271",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permSelectedDate_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_5838c9d9-2205-4145-badf-2415b40eb271",
+                  "value": "s%3A%7B%22minType%22%3A%22.TimeIntervalControl%22%2C%22count%22%3A4%2C%22unit%22%3A%22WEEKS%22%2C%22priorCount%22%3Anull%2C%22priorUnit%22%3Anull%2C%22fromTime%22%3Anull%2C%22toTime%22%3Anull%2C%22mondayHours%22%3A%5B%5D%2C%22tuesdayHours%22%3A%5B%5D%2C%22wednesdayHours%22%3A%5B%5D%2C%22thursdayHours%22%3A%5B%5D%2C%22fridayHours%22%3A%5B%5D%2C%22saturdayHours%22%3A%5B%5D%2C%22sundayHours%22%3A%5B%5D%7D"
+               }
+            ],
+            "title": "potential cost savings",
+            "type": "View"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartViewItems": [],
+               "isUpdatedView": true,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "title": "OS uptime",
+               "traversalSpecId": "",
+               "viewDefinitionId": "cebe351d-a46c-4257-b7bb-053bb39e2541"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 2,
+               "x": 11,
+               "y": 17
+            },
+            "height": 324,
+            "id": "628a3d0a-3b08-452b-a360-a534a41118b2",
+            "states": [{
+               "key": "perm_isDashboardTime_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_628a3d0a-3b08-452b-a360-a534a41118b2",
+               "value": "b%3A0"
+            }],
+            "title": "OS uptime",
+            "type": "View"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartViewItems": ["legend"],
+               "isUpdatedView": true,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "title": "cpu performance trend",
+               "traversalSpecId": "",
+               "viewDefinitionId": "e5d6918b-4ffe-459e-b4a1-816956da7724"
+            },
+            "gridsterCoords": {
+               "h": 7,
+               "w": 4,
+               "x": 1,
+               "y": 10
+            },
+            "height": 381,
+            "id": "a3cf1a07-1006-4a50-974a-1a5d3a7b3d7d",
+            "states": [
+               {
+                  "key": "permPageSize_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_a3cf1a07-1006-4a50-974a-1a5d3a7b3d7d",
+                  "value": "n%3A25"
+               },
+               {
+                  "key": "perm_isDashboardTime_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_a3cf1a07-1006-4a50-974a-1a5d3a7b3d7d",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_a3cf1a07-1006-4a50-974a-1a5d3a7b3d7d",
+                  "value": "b%3A1"
+               },
+               {
+                  "key": "permSelectedDate_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_a3cf1a07-1006-4a50-974a-1a5d3a7b3d7d",
+                  "value": "s%3A%7B%22minType%22%3A%22.TimeIntervalControl%22%2C%22count%22%3A1%2C%22unit%22%3A%22DAYS%22%7D"
+               }
+            ],
+            "title": "cpu performance trend",
+            "type": "View"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartViewItems": ["legend"],
+               "isUpdatedView": true,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "title": "guest memory Performance",
+               "traversalSpecId": "",
+               "viewDefinitionId": "df2e3054-5db5-478f-bb7d-fbcaccd7960e"
+            },
+            "gridsterCoords": {
+               "h": 7,
+               "w": 4,
+               "x": 5,
+               "y": 10
+            },
+            "height": 381,
+            "id": "92e04e6e-b3b6-47e6-97fc-466e4b02dcf1",
+            "states": [{
+               "key": "perm_isDashboardTime_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_92e04e6e-b3b6-47e6-97fc-466e4b02dcf1",
+               "value": "b%3A0"
+            }],
+            "title": "guest memory Performance",
+            "type": "View"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartViewItems": [],
+               "isUpdatedView": true,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "title": "Utilization",
+               "traversalSpecId": "",
+               "viewDefinitionId": "2c07c6a4-c424-408b-9e42-e5001deae6ca"
+            },
+            "gridsterCoords": {
+               "h": 9,
+               "w": 3,
+               "x": 7,
+               "y": 1
+            },
+            "height": 495,
+            "id": "e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+            "states": [
+               {
+                  "key": "permPageSize_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+                  "value": "n%3A30"
+               },
+               {
+                  "key": "perm_isDashboardTime_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permSelectedDate_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+                  "value": "s%3A%7B%22minType%22%3A%22.TimeIntervalControl%22%2C%22advancedTimeMode%22%3Afalse%2C%22fromTime%22%3Anull%2C%22unit%22%3A%22WEEKS%22%2C%22count%22%3A4%2C%22priorUnit%22%3Anull%2C%22priorCount%22%3Anull%2C%22startSubUnit%22%3Anull%2C%22startPeriod%22%3Anull%2C%22toTime%22%3Anull%2C%22endUnit%22%3Anull%2C%22endCount%22%3Anull%2C%22endSubUnit%22%3Anull%2C%22endPeriod%22%3Anull%2C%22isRealTimeData%22%3Anull%2C%22mondayHours%22%3A%5B%5D%2C%22tuesdayHours%22%3A%5B%5D%2C%22wednesdayHours%22%3A%5B%5D%2C%22thursdayHours%22%3A%5B%5D%2C%22fridayHours%22%3A%5B%5D%2C%22saturdayHours%22%3A%5B%5D%2C%22sundayHours%22%3A%5B%5D%7D"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_e4ed0ba0-7526-4864-b43c-1f5a73bf6553",
+                  "value": "b%3A1"
+               }
+            ],
+            "title": "Utilization",
+            "type": "View"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartViewItems": ["legend"],
+               "isUpdatedView": true,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "title": "disk throughput performance",
+               "traversalSpecId": "",
+               "viewDefinitionId": "73b15112-2bc1-4134-be3c-2a46c1398a65"
+            },
+            "gridsterCoords": {
+               "h": 7,
+               "w": 4,
+               "x": 9,
+               "y": 10
+            },
+            "height": 381,
+            "id": "6dd46b76-3354-47ac-93e8-4d5475fa787c",
+            "states": [{
+               "key": "perm_isDashboardTime_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_6dd46b76-3354-47ac-93e8-4d5475fa787c",
+               "value": "b%3A0"
+            }],
+            "title": "disk throughput performance",
+            "type": "View"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "configs": [{
+                  "attributeKind": {
+                     "id": "sys|poweredOn",
+                     "value": "System|Powered ON"
+                  },
+                  "attributePaths": ["/root/allMetricsRoot/GROUP_sys/sys|poweredOn"],
+                  "color": {
+                     "maxValue": 1,
+                     "minValue": 0,
+                     "thresholds": {
+                        "colors": [
+                           "#FF0000",
+                           "#FF0000",
+                           "#00FF00"
+                        ],
+                        "values": [
+                           0,
+                           100
+                        ]
+                     }
+                  },
+                  "colorBy": {
+                     "metricKey": "sys|poweredOn",
+                     "value": "System|Powered ON"
+                  },
+                  "customFilter": {
+                     "excludedResources": null,
+                     "filter": [],
+                     "includedResources": null
+                  },
+                  "filterMode": "tagPicker",
+                  "focusOnGroups": false,
+                  "groupBy": {
+                     "adapterKind": "VMWARE",
+                     "id": "004null002006VMWAREVirtualMachine",
+                     "originalText": "Virtual Machine",
+                     "parentId": "VMWARE",
+                     "parentText": "vCenter",
+                     "resourceKind": "VirtualMachine",
+                     "text": "Virtual Machine",
+                     "type": "resourceKind",
+                     "typeId": "resourceKind:id:3_::_"
+                  },
+                  "mode": {"mode": false},
+                  "name": "virtu",
+                  "relationalGrouping": false,
+                  "resourceKind": "resourceKind:id:3_::_",
+                  "sizeBy": {
+                     "metricKey": null,
+                     "value": ""
+                  },
+                  "solidColoring": true,
+                  "tagFilter": null,
+                  "thenBy": null
+               }],
+               "depth": 5,
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": [
+                  1,
+                  -1,
+                  0
+               ]},
+               "resource": [],
+               "selfProvider": {"selfProvider": false},
+               "title": "VMs up or down`?",
+               "value": 0
+            },
+            "gridsterCoords": {
+               "h": 3,
+               "w": 3,
+               "x": 4,
+               "y": 7
+            },
+            "height": 153,
+            "id": "7771f934-cfd8-491d-bdf7-f4feb8baa2a0",
+            "states": [
+               {
+                  "key": "perm_HeatMap_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_7771f934-cfd8-491d-bdf7-f4feb8baa2a0",
+                  "value": "o%3A"
+               },
+               {
+                  "key": "permBtn_showTextBtn_perm_HeatMap_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_7771f934-cfd8-491d-bdf7-f4feb8baa2a0",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_7771f934-cfd8-491d-bdf7-f4feb8baa2a0",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permBtn_zoomInBtn_perm_HeatMap_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_7771f934-cfd8-491d-bdf7-f4feb8baa2a0",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "VMs up or down`?",
+            "type": "Heatmap"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selfProvider": {"selfProvider": false},
+               "title": "Last week"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 3,
+               "x": 4,
+               "y": 1
+            },
+            "height": 324,
+            "id": "02ab1423-3f3b-424c-9d37-870469ba82ed",
+            "title": "Last week",
+            "type": "IntSummaryStress"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "configs": [{
+                  "attributeKind": {"value": ""},
+                  "color": {"thresholds": {
+                     "colors": [
+                        "#00ff00",
+                        "#888800",
+                        "#ff0000"
+                     ],
+                     "values": [
+                        0,
+                        50,
+                        100
+                     ]
+                  }},
+                  "colorBy": {
+                     "metricKey": "cpu|capacity_contentionPct",
+                     "value": "CPU|Contention (%)"
+                  },
+                  "customFilter": {
+                     "excludedResources": null,
+                     "filter": [],
+                     "includedResources": null
+                  },
+                  "filterMode": "tagPicker",
+                  "focusOnGroups": true,
+                  "groupBy": {
+                     "adapterKind": "VMWARE",
+                     "id": "004null002006VMWAREVirtualMachine",
+                     "originalText": "Virtual Machine",
+                     "parentId": "VMWARE",
+                     "parentText": "vCenter",
+                     "resourceKind": "VirtualMachine",
+                     "text": "Virtual Machine",
+                     "type": "resourceKind",
+                     "typeId": "resourceKind:id:3_::_"
+                  },
+                  "mode": {"mode": false},
+                  "name": "load/contention",
+                  "relationalGrouping": false,
+                  "resourceKind": "resourceKind:id:3_::_",
+                  "sizeBy": {
+                     "metricKey": "cpu|workload",
+                     "value": "CPU|Workload (%)"
+                  },
+                  "solidColoring": false,
+                  "tagFilter": null,
+                  "thenBy": null
+               }],
+               "depth": 10,
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": [
+                  1,
+                  -1,
+                  0
+               ]},
+               "resource": [],
+               "selfProvider": {"selfProvider": false},
+               "title": "workload and contention",
+               "value": 0
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 3,
+               "x": 6,
+               "y": 17
+            },
+            "height": 324,
+            "id": "8df428a2-9551-459d-97ef-60f1143b61df",
+            "states": [{
+               "key": "perm_HeatMap_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_8df428a2-9551-459d-97ef-60f1143b61df",
+               "value": "o%3A"
+            }],
+            "title": "workload and contention",
+            "type": "Heatmap"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 4,
+               "w": 3,
+               "x": 10,
+               "y": 1
+            },
+            "height": 210,
+            "id": "59e8b9f7-b067-4301-a670-3ebb9424d917",
+            "title": "Alert Volume",
+            "type": "IntSummaryAlertVolume"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 5,
+               "w": 3,
+               "x": 10,
+               "y": 5
+            },
+            "height": 267,
+            "id": "e4581159-e4c2-4531-a5d5-c1cd444746ad",
+            "title": "Top Alerts",
+            "type": "ProblemAlertsList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartViewItems": [],
+               "isUpdatedView": true,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "title": "Virtual Disk view",
+               "traversalSpecId": "",
+               "viewDefinitionId": "a245c324-5359-4255-9762-3edd16ab9f30"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 5,
+               "x": 1,
+               "y": 17
+            },
+            "height": 324,
+            "id": "0e6649fd-4b50-4c1f-9ae5-04f10e4fddcb",
+            "states": [
+               {
+                  "key": "permSelectedDate_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_0e6649fd-4b50-4c1f-9ae5-04f10e4fddcb",
+                  "value": "s%3A%7B%22minType%22%3A%22.TimeIntervalControl%22%2C%22advancedTimeMode%22%3Afalse%2C%22fromTime%22%3Anull%2C%22unit%22%3A%22DAYS%22%2C%22count%22%3A7%2C%22priorUnit%22%3Anull%2C%22priorCount%22%3Anull%2C%22startSubUnit%22%3Anull%2C%22startPeriod%22%3Anull%2C%22toTime%22%3Anull%2C%22endUnit%22%3Anull%2C%22endCount%22%3Anull%2C%22endSubUnit%22%3Anull%2C%22endPeriod%22%3Anull%2C%22isRealTimeData%22%3Anull%2C%22mondayHours%22%3A%5B%5D%2C%22tuesdayHours%22%3A%5B%5D%2C%22wednesdayHours%22%3A%5B%5D%2C%22thursdayHours%22%3A%5B%5D%2C%22fridayHours%22%3A%5B%5D%2C%22saturdayHours%22%3A%5B%5D%2C%22sundayHours%22%3A%5B%5D%7D"
+               },
+               {
+                  "key": "perm_isDashboardTime_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_0e6649fd-4b50-4c1f-9ae5-04f10e4fddcb",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permPageSize_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_0e6649fd-4b50-4c1f-9ae5-04f10e4fddcb",
+                  "value": "n%3A50"
+               }
+            ],
+            "title": "Virtual Disk view",
+            "type": "View"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 9,
+               "w": 5,
+               "x": 8,
+               "y": 23
+            },
+            "height": 494,
+            "id": "e92facef-91a6-4ca0-a29b-409041c45aac",
+            "states": [
+               {
+                  "key": "permNewlyConfigured_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_e92facef-91a6-4ca0-a29b-409041c45aac",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permGraphData_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_e92facef-91a6-4ca0-a29b-409041c45aac",
+                  "value": "s%3A%7B%22nodesMap%22%3A%7B%7D%2C%22linksMap%22%3A%7B%7D%2C%22relationshipMap%22%3A%7B%7D%2C%22expandedNodesMap%22%3A%7B%7D%2C%22layout%22%3A%7B%22zoom%22%3A0.6414668914967193%2C%22x%22%3A-9.520327245326882%2C%22y%22%3A19.92296216304331%7D%2C%22links%22%3A%5B%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2298741ab7-af08-4bc5-b0d9-a88272166ffb%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%2280b81cef-f11d-4b05-8f0e-92b7baacb8fd%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2212e14a7f-9a15-4fb5-b4a5-4dac905dfc9d%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%22350ebb86-b83b-4bf6-ba01-e48716af0e2a%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%223910a5a0-24b5-4d7c-9ced-fecba31460ed%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2240422d5c-f732-471b-a7d3-2edd9dcf5d5b%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%22350ebb86-b83b-4bf6-ba01-e48716af0e2a%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%2260c303bd-0219-4dc1-8ffd-7252d62e573a%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%2240422d5c-f732-471b-a7d3-2edd9dcf5d5b%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2298741ab7-af08-4bc5-b0d9-a88272166ffb%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%22bd7b8492-5285-4047-9cd8-fd4ac2475ee2%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%22bd7b8492-5285-4047-9cd8-fd4ac2475ee2%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%2214f35bb8-fdc0-4b01-b016-bb1d0084c418%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%22350ebb86-b83b-4bf6-ba01-e48716af0e2a%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%227f50d8fb-1a8d-4b0c-bb5d-0f6f98e9558c%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%225b127b9f-5a56-476f-8b63-1c45be19cde1%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2280b81cef-f11d-4b05-8f0e-92b7baacb8fd%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%227f50d8fb-1a8d-4b0c-bb5d-0f6f98e9558c%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%227f50d8fb-1a8d-4b0c-bb5d-0f6f98e9558c%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%2298741ab7-af08-4bc5-b0d9-a88272166ffb%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%2212e14a7f-9a15-4fb5-b4a5-4dac905dfc9d%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2298741ab7-af08-4bc5-b0d9-a88272166ffb%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%22350ebb86-b83b-4bf6-ba01-e48716af0e2a%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%2280b81cef-f11d-4b05-8f0e-92b7baacb8fd%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2280b81cef-f11d-4b05-8f0e-92b7baacb8fd%22%2C%22type%22%3A%22child%22%2C%22target%22%3A%2214f35bb8-fdc0-4b01-b016-bb1d0084c418%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2298741ab7-af08-4bc5-b0d9-a88272166ffb%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%2214f35bb8-fdc0-4b01-b016-bb1d0084c418%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%22350ebb86-b83b-4bf6-ba01-e48716af0e2a%22%2C%22lineStyle%22%3A%22solid%22%7D%2C%7B%22betweenResources%22%3A%22true%22%2C%22source%22%3A%2214f35bb8-fdc0-4b01-b016-bb1d0084c418%22%2C%22type%22%3A%22%7Echild%22%2C%22target%22%3A%22350ebb86-b83b-4bf6-ba01-e48716af0e2a%22%2C%22lineStyle%22%3A%22solid%22%7D%5D%2C%22nodes%22%3A%5B%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/vrops-light/VMWARE_Datastore.svg%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A0%2C%22resknd%22%3A%22Datastore%22%2C%22uuid%22%3A%2298741ab7-af08-4bc5-b0d9-a88272166ffb%22%2C%22resKndId%22%3A%22002006VMWAREDatastore%22%2C%22reskndKey%22%3A%22Datastore%22%2C%22root%22%3Afalse%2C%22name%22%3A%22sfo-w01-sfo-w01-vc01-sfo-w01-cl01-vsan01%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A5%2C%22x%22%3A394.63857730578263%2C%22y%22%3A47.73036165691362%2C%22px%22%3A394.63857730578263%2C%22py%22%3A47.73036165691362%2C%22x0%22%3A394.63857730578263%2C%22y0%22%3A47.73036165691362%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_98741ab7-af08-4bc5-b0d9-a88272166ffb_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/custom/Container_Environment.png%22%2C%22adapterkndKey%22%3A%22Container%22%2C%22degree%22%3A1%2C%22index%22%3A1%2C%22resknd%22%3A%22Environment%22%2C%22uuid%22%3A%2280b81cef-f11d-4b05-8f0e-92b7baacb8fd%22%2C%22resKndId%22%3A%22002009ContainerEnvironment%22%2C%22reskndKey%22%3A%22Environment%22%2C%22root%22%3Afalse%2C%22name%22%3A%22vRealize%20Orchestrator%20Adapter%20Managed%20Objects%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A4%2C%22x%22%3A265.0062444388527%2C%22y%22%3A93.2196572624175%2C%22px%22%3A265.0062444388527%2C%22py%22%3A93.2196572624175%2C%22x0%22%3A265.47339826881733%2C%22y0%22%3A92.46425628665315%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_80b81cef-f11d-4b05-8f0e-92b7baacb8fd_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A3%2C%22icon%22%3A%22images/resknd/default/vrops-light/VMWARE_VirtualMachine.svg%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A0%2C%22index%22%3A2%2C%22resknd%22%3A%22Virtual%20Machine%22%2C%22uuid%22%3A%227c73aeee-c905-47de-9ebf-dd016bf192a9%22%2C%22resKndId%22%3A%22002006VMWAREVirtualMachine%22%2C%22reskndKey%22%3A%22VirtualMachine%22%2C%22root%22%3Afalse%2C%22name%22%3A%22winserver07%22%2C%22healthColor%22%3A%22%23cc2127%22%2C%22darkerHealthColor%22%3A%22%238e171b%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22x%22%3A483.59904571887455%2C%22y%22%3A338.6173225372345%2C%22radius%22%3A33%2C%22weight%22%3A11%2C%22px%22%3A483.59904571887455%2C%22py%22%3A338.6173225372345%2C%22x0%22%3A485.01876108222757%2C%22y0%22%3A339.27168925824725%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A3%2C%22darkerRiskColor%22%3A%22%23b08b00%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23fcc700%22%2C%22riskState%22%3A1%2C%22tooltipId%22%3A%22tooltip_7c73aeee-c905-47de-9ebf-dd016bf192a9_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/custom/Container_Environment.png%22%2C%22adapterkndKey%22%3A%22Container%22%2C%22degree%22%3A1%2C%22index%22%3A3%2C%22resknd%22%3A%22Environment%22%2C%22uuid%22%3A%22350ebb86-b83b-4bf6-ba01-e48716af0e2a%22%2C%22resKndId%22%3A%22002009ContainerEnvironment%22%2C%22reskndKey%22%3A%22Environment%22%2C%22root%22%3Afalse%2C%22name%22%3A%22SDDC%20Health%20Group%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A6%2C%22x%22%3A226.10072475313632%2C%22y%22%3A170.3849570755639%2C%22px%22%3A226.10072475313632%2C%22py%22%3A170.3849570755639%2C%22x0%22%3A226.74316689384278%2C%22y0%22%3A170.99355455519466%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_350ebb86-b83b-4bf6-ba01-e48716af0e2a_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A3%2C%22icon%22%3A%22images/resknd/default/vrops-light/VMWARE_HostSystem.svg%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A4%2C%22resknd%22%3A%22Host%20System%22%2C%22uuid%22%3A%2214f35bb8-fdc0-4b01-b016-bb1d0084c418%22%2C%22resKndId%22%3A%22002006VMWAREHostSystem%22%2C%22reskndKey%22%3A%22HostSystem%22%2C%22root%22%3Afalse%2C%22name%22%3A%22sfo01-w01-esx07.vmlab.se%22%2C%22healthColor%22%3A%22%23cc2127%22%2C%22darkerHealthColor%22%3A%22%238e171b%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A4%2C%22x%22%3A335.48186809621006%2C%22y%22%3A80.1718364084008%2C%22px%22%3A334.83800474190423%2C%22py%22%3A78.1245388271715%2C%22x0%22%3A335.67820321276196%2C%22y0%22%3A79.1308042512504%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A3%2C%22darkerRiskColor%22%3A%22%23b08b00%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23fcc700%22%2C%22riskState%22%3A1%2C%22tooltipId%22%3A%22tooltip_14f35bb8-fdc0-4b01-b016-bb1d0084c418_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/NSXTAdapter_LogicalSwitch.svg%22%2C%22adapterkndKey%22%3A%22NSXTAdapter%22%2C%22degree%22%3A1%2C%22index%22%3A5%2C%22resknd%22%3A%22Logical%20Switch%22%2C%22uuid%22%3A%2212e14a7f-9a15-4fb5-b4a5-4dac905dfc9d%22%2C%22resKndId%22%3A%22002011NSXTAdapterLogicalSwitch%22%2C%22reskndKey%22%3A%22LogicalSwitch%22%2C%22root%22%3Afalse%2C%22name%22%3A%22vcf-demo-industrial-dev%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A2%2C%22x%22%3A147.60390127524352%2C%22y%22%3A298.0467804856999%2C%22px%22%3A148.37964688452396%2C%22py%22%3A299.2958149614463%2C%22x0%22%3A146.8095160792104%2C%22y0%22%3A298.95426835345705%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_12e14a7f-9a15-4fb5-b4a5-4dac905dfc9d_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/custom/Container_Environment.png%22%2C%22adapterkndKey%22%3A%22Container%22%2C%22degree%22%3A1%2C%22index%22%3A6%2C%22resknd%22%3A%22Environment%22%2C%22uuid%22%3A%22bd7b8492-5285-4047-9cd8-fd4ac2475ee2%22%2C%22resKndId%22%3A%22002009ContainerEnvironment%22%2C%22reskndKey%22%3A%22Environment%22%2C%22root%22%3Afalse%2C%22name%22%3A%22VMS%20running%20on%20Linux%20hosts%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A2%2C%22x%22%3A520.8473022546466%2C%22y%22%3A25.903342123096806%2C%22px%22%3A520.8473022546466%2C%22py%22%3A25.903342123096806%2C%22x0%22%3A520.8473022546466%2C%22y0%22%3A25.903342123096806%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_bd7b8492-5285-4047-9cd8-fd4ac2475ee2_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A1%2C%22icon%22%3A%22images/resknd/custom/Container_Manual%20Application.png%22%2C%22adapterkndKey%22%3A%22Container%22%2C%22degree%22%3A1%2C%22index%22%3A7%2C%22resknd%22%3A%22Manual%20Application%22%2C%22uuid%22%3A%223910a5a0-24b5-4d7c-9ced-fecba31460ed%22%2C%22resKndId%22%3A%22002009ContainerManual%20Application%22%2C%22reskndKey%22%3A%22Manual%20Application%22%2C%22root%22%3Afalse%2C%22name%22%3A%22Aria-Operations-ExperienceDay%22%2C%22healthColor%22%3A%22%23fcc700%22%2C%22darkerHealthColor%22%3A%22%23b08b00%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A786.2566961016945%2C%22y%22%3A410.2853724492851%2C%22px%22%3A786.2566961016945%2C%22py%22%3A410.2853724492851%2C%22x0%22%3A786.8999558092103%2C%22y0%22%3A411.11853818615754%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A1%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_3910a5a0-24b5-4d7c-9ced-fecba31460ed_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/CASAdapter_Deployment.png%22%2C%22adapterkndKey%22%3A%22CASAdapter%22%2C%22degree%22%3A1%2C%22index%22%3A8%2C%22resknd%22%3A%22Deployment%22%2C%22uuid%22%3A%225b127b9f-5a56-476f-8b63-1c45be19cde1%22%2C%22resKndId%22%3A%22002010CASAdapterDeployment%22%2C%22reskndKey%22%3A%22Deployment%22%2C%22root%22%3Afalse%2C%22name%22%3A%22aria-ops-exp-day%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A375.48987408018394%2C%22y%22%3A633.1007068341958%2C%22px%22%3A375.48987408018394%2C%22py%22%3A633.1007068341958%2C%22x0%22%3A376.3930927577443%2C%22y0%22%3A633.5978888719367%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_5b127b9f-5a56-476f-8b63-1c45be19cde1_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/APPOSUCP_win.png%22%2C%22adapterkndKey%22%3A%22APPOSUCP%22%2C%22degree%22%3A1%2C%22index%22%3A9%2C%22resknd%22%3A%22Windows%20OS%22%2C%22uuid%22%3A%2240422d5c-f732-471b-a7d3-2edd9dcf5d5b%22%2C%22resKndId%22%3A%22002008APPOSUCPwin%22%2C%22reskndKey%22%3A%22win%22%2C%22root%22%3Afalse%2C%22name%22%3A%22Windows%20OS%20on%20winserver07%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A2%2C%22x%22%3A182.42549448839816%2C%22y%22%3A354.1133181538811%2C%22px%22%3A181.6497488791177%2C%22py%22%3A352.8642836781347%2C%22x0%22%3A182.28132394049877%2C%22y0%22%3A354.6122214764271%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_40422d5c-f732-471b-a7d3-2edd9dcf5d5b_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A1%2C%22icon%22%3A%22images/resknd/custom/Container_Environment.png%22%2C%22adapterkndKey%22%3A%22Container%22%2C%22degree%22%3A1%2C%22index%22%3A10%2C%22resknd%22%3A%22Environment%22%2C%22uuid%22%3A%2260c303bd-0219-4dc1-8ffd-7252d62e573a%22%2C%22resKndId%22%3A%22002009ContainerEnvironment%22%2C%22reskndKey%22%3A%22Environment%22%2C%22root%22%3Afalse%2C%22name%22%3A%22Ops%20Exp%20Day%20-%20CustomGroup%22%2C%22healthColor%22%3A%22%23fcc700%22%2C%22darkerHealthColor%22%3A%22%23b08b00%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A1%2C%22x%22%3A196.50454895784188%2C%22y%22%3A470.43160750386454%2C%22px%22%3A196.50454895784188%2C%22py%22%3A470.43160750386454%2C%22x0%22%3A198.3514674974055%2C%22y0%22%3A469.9326692326459%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A1%2C%22darkerRiskColor%22%3A%22%23216b32%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23309948%22%2C%22riskState%22%3A0%2C%22tooltipId%22%3A%22tooltip_60c303bd-0219-4dc1-8ffd-7252d62e573a_1679990703678%22%2C%22fixed%22%3Atrue%7D%2C%7B%22resourceNode%22%3Atrue%2C%22metricState%22%3A0%2C%22icon%22%3A%22images/resknd/default/vrops-light/VMWARE_DistributedVirtualPortgroup.svg%22%2C%22adapterkndKey%22%3A%22VMWARE%22%2C%22degree%22%3A1%2C%22index%22%3A11%2C%22resknd%22%3A%22vSphere%20Distributed%20Port%20Group%22%2C%22uuid%22%3A%227f50d8fb-1a8d-4b0c-bb5d-0f6f98e9558c%22%2C%22resKndId%22%3A%22002006VMWAREDistributedVirtualPortgroup%22%2C%22reskndKey%22%3A%22DistributedVirtualPortgroup%22%2C%22root%22%3Afalse%2C%22name%22%3A%22vcf-demo-industrial-dev%22%2C%22healthColor%22%3A%22%23309948%22%2C%22darkerHealthColor%22%3A%22%23216b32%22%2C%22properties%22%3A%5B%5D%2C%22notInState%22%3Afalse%2C%22radius%22%3A33%2C%22weight%22%3A3%2C%22x%22%3A315.6813629381739%2C%22y%22%3A17.21200798196221%2C%22px%22%3A316.3252262924797%2C%22py%22%3A19.259305563191493%2C%22x0%22%3A316.0466996984709%2C%22y0%22%3A16.118074824821186%2C%22efficiencyColor%22%3A%22%23309948%22%2C%22healthState%22%3A0%2C%22darkerRiskColor%22%3A%22%23b08b00%22%2C%22efficiencyState%22%3A0%2C%22darkerEfficiencyColor%22%3A%22%23216b32%22%2C%22riskColor%22%3A%22%23fcc700%22%2C%22riskState%22%3A1%2C%22tooltipId%22%3A%22tooltip_7f50d8fb-1a8d-4b0c-bb5d-0f6f98e9558c_1679990703678%22%2C%22fixed%22%3Atrue%7D%5D%2C%22removedNodesMap%22%3A%7B%7D%7D"
+               }
+            ],
+            "title": "Topology Graph",
+            "type": "TopologyGraph"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 9,
+               "w": 4,
+               "x": 4,
+               "y": 23
+            },
+            "height": 495,
+            "id": "be668bec-9028-4c79-9df8-8d0f8ecbd621",
+            "states": [{
+               "key": "perm_ResourceRelationshipTree_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_be668bec-9028-4c79-9df8-8d0f8ecbd621",
+               "value": "o%3A"
+            }],
+            "title": "Object Relationship (Advanced)",
+            "type": "ResourceRelationshipAdvanced"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "chartViewItems": [],
+               "isUpdatedView": true,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resource": null,
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "title": "Drive letter",
+               "traversalSpecId": "",
+               "viewDefinitionId": "72cefd21-9a01-45e6-a33c-ea2a6897ac5d"
+            },
+            "gridsterCoords": {
+               "h": 6,
+               "w": 3,
+               "x": 1,
+               "y": 23
+            },
+            "height": 323,
+            "id": "7f4951f2-7006-432e-b0a5-421dc1eced06",
+            "states": [{
+               "key": "perm_isDashboardTime_widget_7abbf583-1c3b-4bc9-bddf-cae6fdb1ad8a_7f4951f2-7006-432e-b0a5-421dc1eced06",
+               "value": "b%3A0"
+            }],
+            "title": "Drive letter",
+            "type": "View"
+         }
+      ]
+   }],
+   "entries": {"resourceKind": [
+      {
+         "adapterKindKey": "Container",
+         "internalId": "resourceKind:id:0_::_",
+         "resourceKindKey": "Function"
+      },
+      {
+         "adapterKindKey": "VMWARE",
+         "internalId": "resourceKind:id:3_::_",
+         "resourceKindKey": "VirtualMachine"
+      },
+      {
+         "adapterKindKey": "VMWARE",
+         "internalId": "resourceKind:id:2_::_",
+         "resourceKindKey": "vSphere World"
+      },
+      {
+         "adapterKindKey": "Container",
+         "internalId": "resourceKind:id:1_::_",
+         "resourceKindKey": "Environment"
+      }
+   ]},
+   "uuid": "157dd533-ec4f-4479-8bc7-95986f7d4f31"
+}
