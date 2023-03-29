@@ -1,26 +1,28 @@
-## Pre Requisites
+### Pre Requisites
 
 Login to VMware HOL https://labs.hol.vmware.com/HOL/catalogs/lab/10126 
 
 **I. Import "Everything" (Bengt to provide entry steps)**
 
+Import file Name "Content-2023-03-27 09-31-54 AM.zip" password to file VMware1!VMware1!
+
 Go to Switch to Import view 
 
-## Creating your Monday Morning Dashboard
+# Creating your Monday Morning Dashboard
 
 
 
-#### vCenter Tagging
+## vCenter Tagging
 
 1. Login to vCenter server https://vcsa-01a.corp.local/ using user: administrator@vsphere.local password: VMware1!
 
 2. Locate Workload 1 Cluster. Repeat for All the VMs steps below
 
-   <img src="images/image-20230328165757425.png" alt="image-20230328165757425" style="zoom:67%;" />
+   <img src="images/image-20230328165757425.png" align="left" style="zoom:75%;" />
 
    3. Locate VM object and **right click**, Select **Tag & Custom Attributes** next select **Assign Tag...** 
 
-      <img src="images/image-20230328171250303.png" alt="image-20230328171250303" style="zoom:67%;" />
+      <img src="images/image-20230328171250303.png" align="left" style="zoom:67%;" />
 
       4. Confirm by clicking OK 
 
@@ -30,25 +32,18 @@ Go to Switch to Import view
 
       5. Select Create Category named **"Exp Day"** select **Many tags option.
 
-         <img src="images/image-20230328180428944.png" alt="image-20230328180428944" style="zoom:67%;" /> 
+         <img src="images/image-20230328180428944.png" alt="image-20230328180428944" style="zoom:75%;" /> 
 
       6. Create Tag by choosing **OPS Exp**Category.
 
-         <img src="images/image-20230328180735145.png" alt="image-20230328180735145" style="zoom:70%;" />
+         <img src="images/image-20230328180735145.png" align="left" style="zoom:70%;" />
 
          
 
       7. Assign above tag to All VMs in Worload 1 cluster. 
 
-         
 
-         
-
-Import file Name "Content-2023-03-27 09-31-54 AM.zip" password to file VMware1!VMware1!
-
-
-
-#### Create a Custom Group 
+## Create a Custom Group 
 
 1. Create a **group type**
 
@@ -74,7 +69,7 @@ Import file Name "Content-2023-03-27 09-31-54 AM.zip" password to file VMware1!V
 
    
 
-**II. Create Dashboard** 
+## Create Dashboard
 
 We are going to create a dashboard showing all necessary information for troubleshooting purposes, the goal is to make it look like this:
 
@@ -160,16 +155,18 @@ We are going to create a dashboard showing all necessary information for trouble
 
               ![image-20230328215720675](images/image-20230328215720675.png)
 
-Custom View
+## Create a Custom View
 
 1. Go to View -> Manage Views
 
    ![image-20230328215953785](images/image-20230328215953785.png)
 
-2. 
-3. 
+2. > > > > > > > > **BENGT WILL FILL IN THIS**
 
-Interactions 
+   
+   
+
+## Interactions 
 
 1. Go to Show Interactions tab
 
