@@ -164,7 +164,7 @@ We are using a custom VIEW on our dashboard.
 
 As you can see from the interactions above, the last widget on the third row is called **Disks**. 
 
-To learn how to create this view, [go here](/files/view/README.md)
+To learn how to create this view, [go here](files/view/README.md)
 
 
 
