@@ -1,51 +1,66 @@
 # Aria Operations Experience Day
 
-Welcome to the Aria Operations Experience Day Lab Manual! This dynamic event offers a 50/50 blend of Show and Tell sessions and immersive Hands-on Labs, focusing on **Dashboard Building and Troubleshooting**. 
+This hands-on workshop is designed to provide a comprehensive understanding of Aria Operations and its potential benefits when integrated into businesses for enhanced operational efficiency.  Through a balanced combination of lectures and interactive lab sessions, we will gain practical experience and insights on dashboard creation, troubleshooting, and environmental sustainability in operations.
 
-# Agenda
+**Agenda**
 
-## 08:30 Introduction to Aria Operations
-Walkthrough and introduction to what's possible with this self driving operations tool, such as Proactive Management, Optimize resources, Cost Management, Automate tasks, Integrations, Custom dashboards
+## 08:30 - Introduction to Aria Operations
 
-## 09:30 Recommendations, Reclaim and Right Size 
-You can follow this by using your own pod / **Hands-On Labs**. Before diving into dashboard creation, we will explore essential capabilities to effectively utilize Aria Operations.
+- **Overview**: Walkthrough and introduction to the full capabilities of this self-driving operations tool. Covering aspects such as Proactive Management, Resource Optimization, Cost Management, Automated Tasks, Integrations, and Custom Dashboards. 
+- **Objectives for the Day**: Brief attendees on the day's objectives and expected outcomes.
 
-> - **Recommendations: Anticipate the Future:** Explore predictive insights for proactive decisions.
-> - **Resource Optimization: Reclaim and Stop Waste:** Identify and manage recoverable resources, snapshots, and disconnected disks.
-> - **Rightsizing Strategies: Optimize Resources:** Navigate internal dynamics and delay hardware investments by optimizing existing resources.
-> - **Strategic Capacity Planning: Timing Hardware Investments:** Use data-driven insights to determine the right time for new hardware investments.
+## 09:30 - Recommendations, Reclaim, and Right Size
 
-## 10:15 Coffee break
+- Hands-On Labs
 
-## 10:30 Deep dive troubleshooting 
-We'll explore troubleshooting techniques using Windows or Linux VMs as examples. By utilizing the built-in troubleshooting workbench, we'll uncover the root causes affecting the application VMs. Our objective is to demonstrate the forensic process and conduct an in-depth analysis of single metrics, utilizing coincidence detection for precision:
->  - **CPU Troubles: Unveiling Usage, Co-Stop, and Contention**. 
->  - **Memory Contention: Evaluating Memory Needs**
->  - **Disk IO Latency: Uncovering Performance Hitches**?
+  : Participants will use their pods to dive into Aria Operations. This is a Show and Tell, but you can follow in your Pod!
 
-## 12:00 LUNCH BREAK 
+  - **Recommendations**: Anticipate the future through predictive insights.
+  - **Resource Optimization**: Learn to reclaim and stop resource wastage.
+  - **Rightsizing**: Navigate optimization of current resources and delay hardware investments.
+  - **Strategic Capacity Planning**: Data-driven strategies for future hardware investments.
 
-## 13:00 LAB Exercise! 
-**Crafting Views, Dashboards, and Reports**: Here's what we will cover:
+## 10:15 - Coffee Break
 
-> - **Views: Visual Insights and Dashboard Integration** Explore effective views and how to integrate them into dashboards.
-> - **Dashboards: Streamlining Operations** Build a dashboard for efficient Monday morning investigations. Share with stakeholders for self-service operations.
-> - **Bonus: Reports for Snapshots** Time permitting, create reports to capture operational snapshots for analysis.
+## 10:30 - Deep Dive Troubleshooting
 
-## 14:00 Environmental friendly operations
-**Sustainability dashboards** in Aria Operations provide a way to monitor, analyze, and optimize the environmental impact of your infrastructure.Track energy consumption, resource utilization, and carbon footprint. We will have a look at the built in system and show some additional dashboards built by other VMware Employees available for download and use. 
+- Hands-On Techniques
 
-## 15:01 Go home. Drive safe! bye!
+  : Use Windows or Linux VMs for real-world troubleshooting.
 
-# Documentation
-- Direct link to Aria Operations POD (https://request.hol.vmware.com/landing-pages/62941) 
+  - **CPU**: Unveiling Usage, Co-Stop, and Contention.
+  - **Memory**: Evaluating Needs and Understanding Memory Contention.
+  - **Disk IO**: Latency and its effects on operations. 
+  - **Dropped Packets**: The last one of the fabulous four metrics
 
-- **MODULES:** 
+## 12:00 - Lunch Break
 
-  - Create [Dashboard](files/dashboard_kate/README.md) 
-  - Specifics on how to create the [View](/files/view/README.md) we use in this lab for our Dashboard
-  - Specifics on how to create [Custom groups](files/customgroups/README.md) 
-  - Specifics on how to create a [Selection List (Object list)](files/selectionlist/README.md) for a dashboard
-  - Our pre Lunchbreak [presentation ](Presentations/Operations Exp Day.pdf)
+## 13:00 - LAB Exercise on Crafting Views, Dashboards, and Reports
 
-  
+- **Views**: Integrate effective views into dashboards.
+- **Dashboards**: Build an efficient "Monday Morning" dashboard and sharing strategies for stakeholder engagement.
+- **Bonus Lab**: Time allowing, create reports for operational snapshots.
+
+## 14:00 - Environmentally Friendly Operations
+
+- Sustainability Dashboards
+
+  : Overview and hands-on insights into monitoring and optimizing the environmental impact of your infrastructure using Aria Operations.
+
+  - **Additional Resources**: Showcase dashboards created by VMware experts available for download and utilization.
+
+## 15:00 - Closing Remarks and Networking
+
+- **Wrap-Up**: Summarize the day's key takeaways, answer any lingering questions, and hint at future workshops or events.
+- **Feedback Opportunity**: A short feedback session for continuous improvement.
+
+## 15:01 - Departure
+
+Safe travels and see you next time!
+
+------
+
+**Documentation & Resources**
+
+- [Link to Documentation]
+- **Modules**: [Link to Modules]
