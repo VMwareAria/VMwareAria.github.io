@@ -6,19 +6,18 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
 
 ## 08:30 - Introduction to Aria Operations
 
+- **Objectives for the Day**: Brief attendees on the day's objectives and expected outcomes. 
 - **Overview**: Walkthrough and introduction to the full capabilities of this self-driving operations tool. Covering aspects such as Proactive Management, Resource Optimization, Cost Management, Automated Tasks, Integrations, and Custom Dashboards. 
-- **Objectives for the Day**: Brief attendees on the day's objectives and expected outcomes.
 
-## 09:30 - Recommendations, Reclaim, and Right Size
+## 09:30 - Optimization: Reclaim, Right Size, What-If scenarios
 
 - Hands-On Labs
 
-  : Participants will use their pods to dive into Aria Operations. This is a Show and Tell, but you can follow in your Pod!
+  : This is a Show and Tell, but participants can use their pods to dive into Aria Operations with us!
 
-  - **Recommendations**: Anticipate the future through predictive insights.
   - **Resource Optimization**: Learn to reclaim and stop resource wastage.
   - **Rightsizing**: Navigate optimization of current resources and delay hardware investments.
-  - **Strategic Capacity Planning**: Data-driven strategies for future hardware investments.
+  - **Capacity Planning**: Data-driven strategies for future hardware investments.
 
 ## 10:15 - Coffee Break
 
@@ -26,12 +25,12 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
 
 - Hands-On Techniques
 
-  : Use Windows or Linux VMs for real-world troubleshooting.
+  : Let’s look at Windows or Linux VMs in a real-world troubleshooting.
 
-  - **CPU**: Unveiling Usage, Co-Stop, and Contention.
+  - **CPU**: Unveiling Metrics, such as Usage%, Co-Stop, CPU Ready, and Contention.
   - **Memory**: Evaluating Needs and Understanding Memory Contention.
   - **Disk IO**: Latency and its effects on operations. 
-  - **Dropped Packets**: The last one of the fabulous four metrics
+  - **Dropped Packets**: The last one of the “fabulous four” VM metrics
 
 ## 12:00 - Lunch Break
 
@@ -60,7 +59,11 @@ Safe travels and see you next time!
 
 ------
 
+- **Modules**: 
+- Access to the workshop
+
 **Documentation & Resources**
 
 - [Link to Documentation]
-- **Modules**: [Link to Modules]
+
+  
