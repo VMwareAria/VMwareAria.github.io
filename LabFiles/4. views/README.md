@@ -1,37 +1,75 @@
 # Create a Custom View
 
-A view presents collected information for an object in a certain way depending on the view type. Each type of view helps you to interpret metrics, properties, policies of various monitored objects including alerts, symptoms, and so on, from a different perspective. The view we will create here is used in our own custom dashboard.
+A view displays gathered information about an object in a particular manner, based on the view type. Each view type assists you in understanding metrics, properties, and policies of different monitored objects, such as alerts, symptoms, and more, from distinct viewpoints. The view we are going to create, is going to be used in our custom dashboard.
 
 
-   ![image-20230328215953785](images/image-20230328215953785.png)
-1. Go to View -> Manage Views
+
+<img src="./images/image-20230917102131484-1694938900256-1.png" alt="image-20230917102131484" style="zoom:80%;" /> 
+
+1. In Aria Operations Go to **Visualize->Views ->Manage**
+
 2. We will create a List View, Click **Add**
-3. Give it a Name: **Ops Exp DISK** or something you can recognise
-4. Go to Presentation, select **List**
-5. Subjects, type **Virtual Machine**
-6. **Data.** Go directly to **Breakdown by**!
-7. Select the: **Add Instance breakdown column (see data for column settings)**
-   <img src="./images/README/image-20230329220022899.png" alt="image-20230329220022899" style="zoom:80%;" />
-8. Go back to **Data** 
-9. ReName the instance to **Disk**, 
-10. Select **Show only instance name** only
-      ![image-20230329220320734](./images/README/image-20230329220320734.png)
-11. Let’s add some metrics on to our View, click on **Data**
-12. Enter **Guest** and click **enter** in the *Filter field*
-13. Double-click **Partition utilizatino (%)**
-14. Double-click **Partition utilizatino (GB)**
-15. Select **Properties** instead of Metrics, and re-search for **guest** in the filter field, then Add these properties:
 
-- `Summary>Guest Operating System>Hostname`
+3. Under the View Types, select **List**
 
-- `Guest OS IP Address`
+4. Give it a Name: **Ops Exp DISK** or something you can recognize for later, a description is optional, but it is recommended in the future as a documentation
 
-- `Summary>Configuration>Parent Datacenter`
+5. Expand the **> Settings** section, but do not change anything
 
-- `Summary>Configuration>Parent Cluster`
+6. Click **Next**
 
-- `Summary>Configuration>Parent Host`
+7. Behind “Add Subject” type **Virtual** and select **Virtual Machine**
+8. Let’s add some metrics on to our View, but before we do so, let us select an object Click the Select Object **ICON**:
+    ![image-20230917104543084](./images/image-20230917104543084.png)
 
+9. In the Search Field, type “**Experience**” And press **enter**
+
+10. Select the server called  **cmbu-experience-days-windows-01** and click **SELECT**
+    <img src="./images/image-20230917104817960.png" alt="image-20230917104817960" style="zoom:80%;" />
+
+11. In the *search field* type **Guest** and click **enter**
+
+12. Expand Metrics>Guest File System>C:\   and double-click on these two: 
+     **Partition utilization (%)**
+     **Partition utilization (GB)**
+
+13. Close the Favorites and Metrics , and Expand  **> Properties** 
+
+14. Add these TWO properties by **double-clicking**:
+
+- Summary>Guest Operating System>**`Hostname`**
+
+- **`Guest OS IP Address`**
+
+   <img src="./images/image-20230917105456904.png" alt="image-20230917105456904" style="zoom:67%;" />
    
+15. In the Search Field, type “**Parent**” and press **Enter**
+16. Add these properties by **double-clicking**:
 
-   We’re done, remember to Click **SAVE**! 
+   - `Properties>Summary>Parent Datacenter`
+
+   - `Properties>Summary>Parent Cluster`
+
+   - `Properties>Summary>Parent Host`
+     <img src="./images/image-20230917110318828.png" alt="image-20230917110318828" style="zoom:80%;" />
+17. Select  **Add Instance breakdown **  
+    
+ 18. Behind Label, type **Disk**
+
+ 19. Behind “Metric Group” select **Guest File System**
+
+ 20. Unselect “Show non-instance aggregate metric”
+
+ 21. Select **Show only instance name** 
+>
+>     NOTE: Selecting the "Guest File System" **metric group** lets you keep a close eye on the file systems within your virtual machines, ensuring that they have enough space and are performing as expected. In other words, we will track and monitor the different file systems (like C: drive, D: drive, etc.) on how much space they have, usage (that's 'used'), and other relevant statistics.
+>
+ <img src="./images/image-20230917114016935.png" alt="image-20230917114016935" style="zoom:80%;" />
+
+22. Click **NEXT**, observe
+23. Click **NEXT**, observe
+24. Click **NEXT**, observe
+25. Click **CREATE**
+
+#### Now that we have created our view, we can create multiple dashboards, each with its own set of views and widgets, and tailor our monitoring experience to different use cases. As we add widgets to dashboards we can also Add **our view**
+
