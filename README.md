@@ -48,7 +48,7 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
 
   - **Additional Resources**: Showcase dashboards created by VMware experts available for download and utilization.
 
-## 15:00 - Closing Remarks and Networking
+## 15:00 - Closing Remarks
 
 - **Wrap-Up**: Summarize the day's key takeaways, answer any lingering questions, and hint at future workshops or events.
 - **Feedback Opportunity**: A short feedback session for continuous improvement.
@@ -60,10 +60,26 @@ Safe travels and see you next time!
 ------
 
 - **Modules**: 
-- Access to the workshop
+- How to [Access the workshop](./LabFiles/LabAccess/README.md)
+- Introduction to Aria Operations
+- Optimization: Reclaim, Right Size, What-If scenarios
+- Deep Dive Troubleshooting
+- Creating Views
+- Creating Dashboards 
+- Creating Reports
+- Sustainability Dashboards
 
-**Documentation & Resources**
+#### **Documentation & Resources**
 
-- [Link to Documentation]
+##### [Link to VMware Documentation]
 
-  
+
+
+##### [Link to Repositories]
+
+##### [Link to Blogs]
+
+
+
+
+
