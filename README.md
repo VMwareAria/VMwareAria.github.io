@@ -61,19 +61,17 @@ Safe travels and see you next time!
 
 - **Modules**: 
 - How to [Access the workshop](./LabFiles/LabAccess/README.md)
-- Introduction to Aria Operations
-- Optimization: Reclaim, Right Size, What-If scenarios
-- Deep Dive Troubleshooting
-- Creating Views
-- Creating Dashboards 
-- Creating Reports
-- Sustainability Dashboards
-
+- [Introduction to Aria Operations ](./LabFiles/1. introduction/README.md)
+- [Optimization: Reclaim, Right Size, What-If scenarios](./LabFiles/2. optimization/README.md)
+- [Deep Dive Troubleshooting](./LabFiles/3. troubleshooting/README.md)
+- [Creating Views](./LabFiles/4. views/README.md)
+- [Creating Dashboards ](./LabFiles/5. dashboards/README.md)
+- [Creating Reports](./LabFiles/6. reports/README.md)
+- [Sustainability Dashboards](./LabFiles/7. sustainability/README.md)
+- 
 #### **Documentation & Resources**
-
+[RESOURCES](./LabFiles/8. resources/README.md)
 ##### [Link to VMware Documentation]
-
-
 
 ##### [Link to Repositories]
 
