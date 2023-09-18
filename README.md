@@ -65,6 +65,8 @@ Safe travels and see you next time!
 - [Deep Dive Troubleshooting](./LabFiles/30. troubleshooting/README.md)
 - [Sustainability Dashboards](./LabFiles/70. sustainability/README.md)
 
+- [KATE POWERPOINT](./Presentations/kate/README.md)
+
 - **Modules**: 
 - How to [Access the workshop](./LabFiles/0. LabAccess/README.md)
 - Creating [Custom Groups](./LabFiles/10. customgroup/README.md)
