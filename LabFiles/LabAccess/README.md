@@ -8,7 +8,7 @@ In this part of the module we will learn how to access the Cloud Aria Operations
 
 ![image-20230815112911479](./assets/image-20230815112911479.png)
 
-2. Go to **<a href="https://www.vmware.com/cloud-solutions.html" target="_blank">cloud.vmware.com</a>** 
+2. Go to **https://www.vmware.com/cloud-solutions.html** 
 
 3. Click on **Login** in right upper corner.
 

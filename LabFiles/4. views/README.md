@@ -50,8 +50,12 @@ A view displays gathered information about an object in a particular manner, bas
 
    - `Properties>Summary>Parent Cluster`
 
-   - `Properties>Summary>Parent Host`
-     <img src="./images/image-20230917110318828.png" alt="image-20230917110318828" style="zoom:80%;" />
+   - `Properties>Summary>Parent Host` 
+
+
+
+   - <img src="./images/image-20230917110318828.png" alt="image-20230917110318828" style="zoom:80%;" />
+
 17. Select  **Add Instance breakdown **  
     
  18. Behind Label, type **Disk**

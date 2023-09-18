@@ -60,6 +60,7 @@ Safe travels and see you next time!
 ------
 
 - **Modules**: 
+- [Prerequisites](./LabFiles/0. prerequisites/README.md)
 - How to [Access the workshop](./LabFiles/LabAccess/README.md)
 - [Introduction to Aria Operations ](./LabFiles/1. introduction/README.md)
 - [Optimization: Reclaim, Right Size, What-If scenarios](./LabFiles/2. optimization/README.md)
