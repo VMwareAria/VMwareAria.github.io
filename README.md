@@ -59,24 +59,30 @@ Safe travels and see you next time!
 
 ------
 
-- **Modules**: 
-- [Prerequisites](./LabFiles/0. prerequisites/README.md)
-- How to [Access the workshop](./LabFiles/LabAccess/README.md)
+- **Lectures**: 
 - [Introduction to Aria Operations ](./LabFiles/1. introduction/README.md)
-- [Optimization: Reclaim, Right Size, What-If scenarios](./LabFiles/2. optimization/README.md)
-- [Deep Dive Troubleshooting](./LabFiles/3. troubleshooting/README.md)
-- [Creating Views](./LabFiles/4. views/README.md)
-- [Creating Dashboards ](./LabFiles/5. dashboards/README.md)
-- [Creating Reports](./LabFiles/6. reports/README.md)
-- [Sustainability Dashboards](./LabFiles/7. sustainability/README.md)
-- 
+- [Optimization: Reclaim, Right Size, What-If scenarios](./LabFiles/20. optimization/README.md)
+- [Deep Dive Troubleshooting](./LabFiles/30. troubleshooting/README.md)
+- [Sustainability Dashboards](./LabFiles/70. sustainability/README.md)
+
+- **Modules**: 
+- How to [Access the workshop](./LabFiles/0. LabAccess/README.md)
+- Creating [Custom Groups](./LabFiles/10. customgroup/README.md)
+- Creating [Views](./LabFiles/40. views/README.md)
+- Creating [Dashboards ](./LabFiles/50. dashboards/README.md)
+- Creating [Reports](./LabFiles/60. reports/README.md)
+
 #### **Documentation & Resources**
+
 [RESOURCES](./LabFiles/8. resources/README.md)
+
 ##### [Link to VMware Documentation]
 
 ##### [Link to Repositories]
 
 ##### [Link to Blogs]
+
+##### [Link to Youtube Videos]
 
 
 
