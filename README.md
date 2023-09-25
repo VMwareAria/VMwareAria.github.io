@@ -5,7 +5,9 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
 ## 09:00 - Introduction to Aria Operations
 
 - **Objectives for the Day**: Brief attendees on the day's objectives and expected outcomes. 
-- **Overview**: Walkthrough and introduction to the full capabilities of this self-driving operations tool. Covering aspects such as Proactive Management, Resource Optimization, Cost Management, Automated Tasks, Integrations, and Custom Dashboards. DOC: [Introduction](./LabFiles/1. introduction/README.md)
+- DOC: [Introduction](./LabFiles/1. introduction/README.md)
+- **Overview**: Walkthrough and introduction to the full capabilities of this self-driving operations tool. Covering aspects such as Proactive Management, Resource Optimization, Cost Management, Automated Tasks, [Integrations](./LabFiles/2.integration/README.md), and Custom Dashboards. 
+
 
 ## 09:50 - Optimization: Reclaim, Right Size, What-If scenarios
 
@@ -78,7 +80,6 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
 - ##### [Blogs]
 
 - ##### [Youtube Videos]
-
 
 
 
