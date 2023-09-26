@@ -1,4 +1,4 @@
-# INTRODUCTION
+# introduction
 
 ![Slide1](./assets/Slide1.PNG)
 
@@ -51,5 +51,3 @@
 ![Slide25](./assets/Slide25.PNG)
 
 ![Slide26](./assets/Slide26.PNG)
-
-![Slide27](./assets/Slide27.PNG)
