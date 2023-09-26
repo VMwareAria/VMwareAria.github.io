@@ -16,7 +16,6 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
   : This is a Show and Tell, but participants can use their pods to dive into Aria Operations with us!
 
   - **Resource Optimization**: Learn to reclaim and stop resource wastage.
-  - **Resource Optimization**: Learn to reclaim and stop resource wastage.
   - **Rightsizing**: Navigate optimization of current resources and delay hardware investments.
   - **Capacity Planning**: Data-driven strategies for future hardware investments.
   - DOC: [Optimization ](./LabFiles/20. optimization/README.md)

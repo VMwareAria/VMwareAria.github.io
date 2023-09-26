@@ -1,7 +1,7 @@
 # RIGHTSIZING 
 
-- [Definitions, Capacity Engine, and Calculations](/files/rightsizing/README.md) 
-- another
+1. [Definitions, **Capacity Engine**, and Calculations](/LabFiles/21. rightsizing/README.md) 
+2. another
 
 
 
