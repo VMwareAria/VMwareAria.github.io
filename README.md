@@ -1,6 +1,6 @@
 ## Aria Operations Experience Day
 
-This hands-on workshop is designed to provide a comprehensive understanding of Aria Operations and its potential benefits when integrated into businesses for enhanced operational efficiency.  Through a balanced combination of lectures and interactive lab sessions, we will gain practical experience and insights on dashboard creation, troubleshooting, and environmental sustainability in operations. DOC: How to [Access the workshop](./LabFiles/0. LabAccess/README.md)
+This hands-on workshop is designed to provide a comprehensive understanding of Aria Operations and its potential benefits when integrated into businesses for enhanced operational efficiency.  Through a balanced combination of lectures and interactive lab sessions, we will gain practical experience and insights on dashboard creation, troubleshooting, and environmental sustainability in operations. Have a look at “How to [Access the workshop](./LabFiles/0. LabAccess/README.md)”, or you can perform the modules below in your own environment. 
 
 ## 09:00 - Introduction to Aria Operations
 
@@ -11,77 +11,47 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
 
 ## 09:50 - Optimization: Reclaim, Right Size, What-If scenarios
 
-- Hands-On Labs
+- This is a Show and Tell, but you can follow using your own Aria Operations. 
 
-  : This is a Show and Tell, but participants can use their pods to dive into Aria Operations with us!
-
-  - **Resource Optimization**: Learn to reclaim and stop resource wastage. 
-  - **Rightsizing**: Navigate optimization of current resources and delay hardware investments.
-  - **Capacity Planning**: Data-driven strategies for future hardware investments.
-  - DOC: [Optimization ](./LabFiles/20. optimization/README.md)
+  - The Capacity engine, definitions and 
+  - **Resource Optimization**: Learn to *reclaim* and stop resource wastage. 
+  - ***Rightsizing***: Navigate optimization of current resources and delay hardware investments.
+  - **Capacity Planning**: Data-driven strategies for future hardware investments. What-If Scenarios.
+  - **VMware Hands-On Labs.** Go to [this link](https://www.learningplatform.vmware.com/HOL/catalogs/catalog/1887), to the lab called  Aria Operations - Getting More Out of it! (HOL-2401-02-CMP), Click the “Read More” link to see all the modules. Recommended; Module 3 “Advanced Capacity Management”, Module 12 “Achieve Optimal Performance with Rightsizing”, and Module 14 “Plan for Your Future Capacity Needs ”. 
 
 ## 10:30 - Coffee Break
 
 ## 10:50 - Deep Dive Troubleshooting
 
-- Hands-On Techniques
-
-  : Let’s look at Windows or Linux VMs in a real-world troubleshooting.
-
+- This is a Show and Tell, but you can follow along using your own Aria Operations. Let’s look at this Labs Windows and Linux VMs in a real-world troubleshooting. 
+  
   - **CPU**: Unveiling Metrics, such as Usage%, Co-Stop, CPU Ready, and Contention.
   - **Memory**: Evaluating Needs and Understanding Memory Contention.
   - **Disk IO**: Latency and its effects on operations. 
   - **Dropped Packets**: The last one of the “fabulous four” VM metrics
-  - DOC: [Troubleshooting ](./LabFiles/30. troubleshooting/README.md)
+  - **VMware Hands-On Labs.** Go to [this link](https://www.learningplatform.vmware.com/HOL/catalogs/catalog/1887), to the lab called  Aria Operations - Getting More Out of it! (HOL-2401-02-CMP), Click the “Read More” link to see all the modules. Recommended; Module 8 “Using Metrics and Metric Charts for Troubleshooting”, Module 9 “Advanced Troubleshooting Techniques”, and Module 4 “Integrating and Troubleshooting with Logs”. If you want to start much softer, use the lab Aria Operations - Getting Started (HOL-2401-01-CMP), and do Module 4 *“Mastering Monitoring and Troubleshooting Essentials”*
 
-## 11:35 - Lunch Break - 40 minutes
+## 11:50 - Lunch Break - 40 minutes
 
-## 12:15 - LAB Exercise. Crafting Views and Dashboards
+## 12:30 - LAB Exercise. Crafting Views and Dashboards
 
 - **Grouping:** Business Unit, Applications, based on vSphere tags. DOC: Creating [Custom Groups](./LabFiles/10. customgroup/README.md)
 - **Views**: Integrate effective views into dashboards. DOC: Creating [Views](./LabFiles/40. views/README.md)
 - **Dashboards**: Build an efficient "Monday Morning" dashboard and sharing strategies for stakeholder engagement. DOC: Creating [Dashboards ](./LabFiles/50. dashboards/README.md)
-- **BONUS LAB**: Time allowing, create reports for operational snapshots. DOC: Creating [Reports](./LabFiles/60. reports/README.md)
+- **BONUS **: Time allowing, create reports for operational ‘snapshots’.
 
-## 14:00 - Environmentally Friendly Operations
+## 14:20 - Environmentally Friendly Operations
 
-- Sustainability Dashboards
+- Sustainability Dashboards. Overview and insights into monitoring and optimizing the environmental impact of your infrastructure using Aria Operations.  We will Showcase dashboards created by VMware experts available for download and utilization. 
 
-  : Overview and hands-on insights into monitoring and optimizing the environmental impact of your infrastructure using Aria Operations.
-
-  - **Additional Resources**: Showcase dashboards created by VMware experts available for download and utilization. 
-  - DOC: [Sustainability Dashboards](./LabFiles/70. sustainability/README.md)
 
 ## 14:45 - Closing Remarks
 
 - **Wrap-Up**: Summarize the day's key takeaways, answer any lingering questions, and hint at future workshops or events.
 - **Feedback Opportunity**: A short feedback session for continuous improvement.
 
-## 15:00 - done
-
-------
-
-### Modules: 
-
-1. How to [Access the workshop](./LabFiles/0. LabAccess/README.md)
-2. Creating [Custom Groups](./LabFiles/10. customgroup/README.md)
-3. Creating [Views](./LabFiles/40. views/README.md)
-4. Creating [Dashboards ](./LabFiles/50. dashboards/README.md)
-5. Creating [Reports](./LabFiles/60. reports/README.md)
-
-### Documentation & Resources
-
-- [RESOURCES](./LabFiles/8. resources/README.md)
-
-- ##### [VMware Documentation]
-
-- ##### [Repositories]
-
-- ##### [Blogs]
-
-- ##### [Youtube Videos]
 
 
 
 
-
+### Documentation and [RESOURCES](./LabFiles/8. resources)

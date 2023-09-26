@@ -44,5 +44,3 @@
 ### Blogs
 
 - [OPERATIONALIZE YOUR WORLD](https://www.vmwareopsguide.com/downloads/ops-your-world/) 
-
-### 
