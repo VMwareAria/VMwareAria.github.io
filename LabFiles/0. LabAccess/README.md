@@ -14,7 +14,7 @@ HTTPS port 443 opens to outgoing traffic with access through the firewall to:
 
 ## Web access 
 
-1. Start a web browser of your choice (Chrom or Firefox recommended).
+1. Start a web browser of your choice (Chrome or Firefox recommended).
 
 ![image-20230815112911479](./assets/image-20230815112911479.png)
 
@@ -50,7 +50,7 @@ Click on **LAUNCH SERVICE** VMware Aria Operation.
 
 ![image-20230925215615119](./assets/image-20230925215615119.png)
 
-Enjoy LAB excercises!!! 
+Enjoy LAB exercises!!! 
 
 
 
