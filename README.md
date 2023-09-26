@@ -13,7 +13,7 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
 
 - This is a Show and Tell, but you can follow using your own Aria Operations. 
 
-  - The Capacity engine, definitions and 
+  - [The Capacity engine, definitions]() 
   - **Resource Optimization**: Learn to *reclaim* and stop resource wastage. 
   - ***Rightsizing***: Navigate optimization of current resources and delay hardware investments.
   - **Capacity Planning**: Data-driven strategies for future hardware investments. What-If Scenarios.
@@ -53,5 +53,4 @@ This hands-on workshop is designed to provide a comprehensive understanding of A
 
 
 
-
-### Documentation and [RESOURCES](./LabFiles/8. resources)
+### Documentation and [RESOURCES](/LabFiles/resources/)
