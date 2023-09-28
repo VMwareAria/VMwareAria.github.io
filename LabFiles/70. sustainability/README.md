@@ -1,3 +1,7 @@
+---
+
+---
+
 # Sustainability Blogs
 
 [David Jakubowicz](https://developer.vmware.com/user/djakubowicz), France
@@ -28,5 +32,16 @@
 
 -------
 
+[Bengt Grønås](https://www.linkedin.com/in/bgronas/), Norway
 
+```markdown
+Note: With Aria Automation and Orchestrator, Not Aria Operations
+```
+### IaaS Automated Powersaving, Green Sustainability
+
+#### [**Powersaving** by turning off VM’s automatically](https://bengt.no/post/2023-03-27/)
+
+
+
+----------
 
