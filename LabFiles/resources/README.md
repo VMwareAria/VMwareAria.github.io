@@ -44,4 +44,4 @@
 ### Blogs
 
 - [OPERATIONALIZE YOUR WORLD](https://www.vmwareopsguide.com/downloads/ops-your-world/) 
-- ARIA OPERATIONS [SUSTAINABILITY BLOGS](/LabFiles/70.sustainability) (VMware people)
+- ARIA OPERATIONS [SUSTAINABILITY BLOGS](/LabFiles/sustainability) 
